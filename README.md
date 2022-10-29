@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Utkarsh-Detha
 - 👀 I’m interested in mathematical optimization and astronomical data processing
-- 🌱 I’m currently learning C and Rust
+- 🌱 I’m currently learning Julia and Rust
 - 💞️ I’m looking to collaborate on projects related to above-stated fields, written in Python/Julia/Rust/C
 
 <!---
